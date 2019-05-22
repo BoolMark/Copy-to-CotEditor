@@ -15,12 +15,12 @@
 git clone https://github.com/BoolMark/Copy-to-CotEditor.git
 ```
 * 安装完成后，打开键盘偏好设置，为 Copy to CotEditor 设置一个快捷键
-![avatar](images/key.png)
+![avatar](images/key-zh.png)
 
 * 在设置快捷键之后需要注意的一点就是，你需要开启浏览器或其他程序的自动化控制权限（System Events），一般情况下应用程序会自动请求访问权限。
-![avatar](images/safe.png)
+![avatar](images/safe-zh.png)
 
-* 再将应用程序添加到 **辅助功能** 的列表中，这一步如果应用程序没有请求作为辅助功能的权限就需要你点击 “+” 手动添加。
-![avatar](images/help.png)
+* 再将应用程序添加到 **辅助功能** 的列表中，这一步如果应用程序没有请求作为辅助功能的权限就需要你点击 **“+”** 手动添加。
+![avatar](images/help-zh.png)
 
-#### * 接下来你就可以使用快捷键进行文本的快速记录了！
+### * 接下来你就可以使用快捷键进行文本的快速记录了 ！ ^_^
