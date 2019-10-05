@@ -12,7 +12,7 @@
 * 将 git 仓库克隆到本地， 运行目录中的 Copy to CotEditor
 
 ```sh
-git clone https://github.com/BoolMark/Copy-to-CotEditor.git
+git clone https://github.com/Vubee/Copy-to-CotEditor.git
 ```
 * 安装完成后，打开键盘偏好设置，为 Copy to CotEditor 设置一个快捷键
 ![avatar](images/key-zh.png)
