@@ -18,7 +18,7 @@ You can select the content which you want to record in the browser or other plac
 Clone and run the Copy-to-CotEditor/Copy to CotEditor
 
 ```sh
-git clone https://github.com/BoolMark/Copy-to-CotEditor.git
+git clone https://github.com/Vubee/Copy-to-CotEditor.git
 ```
 
 * After the installation, open the *keyboard shortcuts* and set a shortcut key for **Copy-to-CotEditor**.
